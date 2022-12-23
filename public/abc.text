@@ -1,0 +1,9 @@
+GET /api/v1/categorylist HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Authorization:   Bearer hQqbqOuApQxniwRPmHQjfHwbHvdGnHN0912PPU92Mt9hTpxGp4pvcEuCMa5r
+Connection:      keep-alive
+Host:            logmycare.test
+Postman-Token:   75b917ef-c11c-49b0-aadf-45eda8f131fd
+User-Agent:      PostmanRuntime/7.29.2
+
